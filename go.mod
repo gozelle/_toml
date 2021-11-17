@@ -1,4 +1,4 @@
-module github.com/koeyo/_toml
+module github.com/gozelle/_toml
 
 go 1.15
 
