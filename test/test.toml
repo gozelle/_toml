@@ -1,0 +1,2 @@
+target_dsn = "postgresql"
+target_type = 1
